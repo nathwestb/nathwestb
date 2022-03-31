@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Data Science and Games
-- 🌱 Studying C# and C++
+- 🔭 Data Science and BI
+- 🌱 Studying Python and R
 - 📫 nathanpvh11@gmail.com
 
